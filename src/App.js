@@ -11,7 +11,7 @@ const topics = [
     challenges: [
       "What is Java? Explain its features.",
       "Why is Java platform-independent?",
-      "What is the difference between JDK, JRE, and JVM?"
+      "What is the difference between JDK, JRE, and JVM illustrate in detail?"
     ],
     subtopics: [
       "Why you must learn Java",
